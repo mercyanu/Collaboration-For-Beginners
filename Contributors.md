@@ -364,3 +364,8 @@
 - Place: Tipaza, Alegria
 - Bio: Hello my name is Ziane Maamar and I am a 27 year old self-taught Web and Graphics Designer. Road to #FullStack Developer #Pythoneer
 - GitHub: [DRXDESIGN](https://github.com/drxdesign)
+
+#### Name: [Gideon Akintoye](https://github.com/mercyanu)
+- Place: Ibadan, Nigeria
+- Bio: A continuous-learning-software-developer(CLSD), passionate about enchancing the digital health space.
+- GitHub: [mercyanu](https://github.com/mercyanu)
